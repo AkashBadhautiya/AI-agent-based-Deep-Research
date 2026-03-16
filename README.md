@@ -34,6 +34,4 @@ deep-research-agent/
 │── docs/                # PDF documentation (to be added)
 ```
 
-## Submission Details
-- Submit **GitHub Repo + PDF Documentation + Resume** to `contact@kairon.co.in`
-- **Deadline:** 7th March 2025
+
